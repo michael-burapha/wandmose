@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Jun 2026 16:09:17 at https://wandmose.dk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wandmose.dk/ -O1 "C:\My Web Sites\wandmose" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:09:59	Error: 	"Not Found" (404) at link https://wandmose.dk/customerdata/files/templates/1/cta2.jpg (from https://wandmose.dk/)
+16:09:59	Error: 	"Not Found" (404) at link https://wandmose.dk/customerdata/files/templates/1/cta1.jpg (from https://wandmose.dk/)
+16:09:59	Error: 	"Not Found" (404) at link https://wandmose.dk/customerdata/files/templates/1/cta4.jpg (from https://wandmose.dk/)
+16:09:59	Error: 	"Not Found" (404) at link https://wandmose.dk/customerdata/files/templates/1/cta3.jpg (from https://wandmose.dk/)
+16:09:59	Error: 	"Not Found" (404) at link https://wandmose.dk/customerdata/files/templates/1/bg-facebook.jpg (from https://wandmose.dk/)
+16:10:03	Error: 	"Not Found" (404) at link https://wandmose.dk/POST (from https://wandmose.dk/WebResource.axd?d=FGtNo2e7gStSF3d_TgSbMnPVTx696b4Ke0nCJYRegUEnoHjRWyqRkDO6wXOffUgs2eCbmVdUSd_wPP7bneZ4ZPWQbmE1&t=638259476865233147)
+
+HTTrack Website Copier/3.49-2 mirror complete in 47 seconds : 49 links scanned, 42 files written (4544689 bytes overall) [2934721 bytes received at 62440 bytes/sec], 3270846 bytes transferred using HTTP compression in 18 files, ratio 40%
+(6 errors, 0 warnings, 0 messages)
